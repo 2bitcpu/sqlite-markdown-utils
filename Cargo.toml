@@ -1,0 +1,18 @@
+[package]
+name = "md-utils"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+pulldown-cmark = "0.13.4"
+sqlite3_ext = "0.2.1"
+
+[profile.release]
+opt-level = "z"
+lto = true
+strip = true
+codegen-units = 1

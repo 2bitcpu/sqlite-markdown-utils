@@ -1,0 +1,11 @@
+/workspace/sqlite-markdown-lib/target/debug/deps/linux_raw_sys-77ceb41a792d8c66.d: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/elf.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/errno.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/general.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/ioctl.rs
+
+/workspace/sqlite-markdown-lib/target/debug/deps/liblinux_raw_sys-77ceb41a792d8c66.rlib: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/elf.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/errno.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/general.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/ioctl.rs
+
+/workspace/sqlite-markdown-lib/target/debug/deps/liblinux_raw_sys-77ceb41a792d8c66.rmeta: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/elf.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/errno.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/general.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/ioctl.rs
+
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/elf.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/errno.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/general.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.4.15/src/aarch64/ioctl.rs:
